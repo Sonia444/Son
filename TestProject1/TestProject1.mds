@@ -9,7 +9,7 @@
 	<config language="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" />
 	<testItems key="{69FA7C66-0242-48DC-BB60-3EEF6E52AEAE}" version="14">
 		<children>
-			<testItem name="ProjectTestItem1" key="{F2323653-6677-4A4A-AD8C-A0ECFD5E5EAE}" group="False" parallel="False" enabled="True" testMoniker="KDT\{34AF5D48-B24E-486F-A2CA-0604C7112739}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="ProjectTestItem1" key="{F2323653-6677-4A4A-AD8C-A0ECFD5E5EAE}" group="False" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<environments activeCloud="CBT" />
 				<children />

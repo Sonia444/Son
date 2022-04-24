@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{D680386C-640C-4739-9B0D-6801F12464D2}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{2F0320E8-ECA4-48B9-806B-93FA811AD0A1}">
+			<config nodeName="Orders" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Sonia\Repo\Sample-Orders\Orders\TestedApps" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Sonia\Repo\Sample-Orders\Orders\TestedApps" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Sonia\Repo\Sample-Orders\Orders\TestedApps" />
+					<param name="Simple" fileName="Orders.exe" filePath="C:\Sonia\Repo\Sample-Orders\Orders\TestedApps\" parameters="" workFolder="C:\Sonia\Repo\Sample-Orders\Orders\TestedApps" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>
